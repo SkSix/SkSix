@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SkSix
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning GODOT
+- :page_facing_up: Currently working in TCS
 - 📫 Reach me at sukesh.kawa@gmail.com
 
 <!---
